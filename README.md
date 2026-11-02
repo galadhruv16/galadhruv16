@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Dhruv%20👋&fontSize=40&animation=fadeIn&fontAlignY=38" alt="Header" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Open+Source+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=AI+Full+Stack+Developer;AI+%26+Open+Source+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -33,11 +33,27 @@
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,tailwind,nodejs,express,git,github,vscode,docker,postgres,mongodb" alt="Tech Stack" />
-</p>
-
-
+### ⚡ TL;DR About Me
+```yaml
+Name: Dhruv Gala
+Role: Full-Stack & AI Systems Developer
+Passions: Generative Media, RAG Architectures, Secure Backend APIs
+Current Focus: Scaling AutoReel-Studio & exploring autonomous agent workflows
+Philosophy: "From mini-scripts to production-grade microservices"
+```
+---
+### 🚀 Featured Highlights
+Here are a few projects I've built and engineered:
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[AutoReel-Studio](https://github.com/galadhruv16/AutoReel-Studio)** | `TypeScript` `AI` `Node.js` | AI-powered motion graphics reel generation studio with dynamic JavaScript components. |
+| **[QuestionGenerator](https://github.com/galadhruv16/QuestionGenerator)** | `TypeScript` `Python` `RAG` `LLMs` | Intelligent exam/question generation engine powered by RAG and modern NLP pipelines. |
+| **[Secure-Chat-App](https://github.com/galadhruv16/Secure-Chat-Application)** | `JavaScript` `Crypto` `WebSockets` | End-to-end encrypted messaging application applying network and cryptographic security principles. |
+| **[Disease-Prediction](https://github.com/galadhruv16/Disease-Prediction-system)** | `Python` `RandomForest` `ML` | Healthcare machine learning classifier for predictive waterborne disease diagnosis. |
+| **[Video Streaming Backend](https://github.com/galadhruv16/backend-proj)** | `Node.js` `Express` `MongoDB` | Robust backend architecture designed for production-scale media and video streaming. |
+---
+### 🛠️ Languages, Frameworks & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,git,github,vscode,postman,docker" alt="Skills" />
+</div>
+<br/>
