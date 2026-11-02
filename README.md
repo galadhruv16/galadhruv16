@@ -40,16 +40,4 @@
   <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,tailwind,nodejs,express,git,github,vscode,docker,postgres,mongodb" alt="Tech Stack" />
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <!-- GitHub Overall Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galadhruv16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galadhruv16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
-  <br/>
-  
